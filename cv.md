@@ -11,3 +11,10 @@
 ## Adout me:
 
 I want to be a frontend developer. I study every day. I like it.
+
+## Skils:
+
+*HTML
+*CSS
+*SCSS
+*JavaScript Basics
