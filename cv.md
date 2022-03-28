@@ -2,11 +2,11 @@
 
 ## Contacts:
 
-**Phone:** +375-29-205-03-69
+** Phone:** +375-29-205-03-69
 
-**Email:** Dubrik90@yandex.by
+** Email:** Dubrik90@yandex.by
 
-**GitHub:** [Dubrik90](https://github.com/Dubrik90)
+** GitHub:** [Dubrik90](https://github.com/Dubrik90)
 
 ## Adout me:
 
@@ -14,10 +14,10 @@ I want to be a frontend developer. I study every day. I like it.
 
 ## Skils:
 
-*HTML
-*CSS
-*SCSS
-*JavaScript Basics
+- HTML
+- CSS
+- SCSS
+- JavaScript Basics
 
 ## Code exemple:
 
@@ -41,10 +41,10 @@ I want to be a frontend developer. I study every day. I like it.
 
 ## Education and courses:
 
-*course HTML, SCSS, JavaScript Basics
-*JavaScript https://learn.javascript.ru/
+- course HTML, SCSS, JavaScript Basics
+- JavaScript https://learn.javascript.ru/
 
 ## Language:
 
-*Russian
-*English level A1
+- Russian
+- English level A1
