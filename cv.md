@@ -2,11 +2,11 @@
 
 ## Contacts:
 
-** Phone:** +375-29-205-03-69
+**Phone:** +375-29-205-03-69
 
-** Email:** Dubrik90@yandex.by
+**Email:** Dubrik90@yandex.by
 
-** GitHub:** [Dubrik90](https://github.com/Dubrik90)
+**GitHub:** [Dubrik90](https://github.com/Dubrik90)
 
 ## Adout me:
 
