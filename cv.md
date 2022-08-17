@@ -17,7 +17,11 @@ I want to be a frontend developer. I study every day. I like it.
 - HTML
 - CSS
 - SCSS
-- JavaScript Basics
+- JavaScript 
+- React baics
+- Type script 
+- Git
+
 
 ## Code exemple:
 
@@ -41,7 +45,7 @@ I want to be a frontend developer. I study every day. I like it.
 
 ## Education and courses:
 
-- course HTML, SCSS, JavaScript Basics
+- course HTML, SCSS, JavaScript Basics (`Фрилансер по жизни`)
 - JavaScript https://learn.javascript.ru/
 
 ## Language:
